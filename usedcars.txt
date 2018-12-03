@@ -1,0 +1,5 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000.0
+ABC132,2007,white,black,yellow,Toyota,Corolla,400.0
+38000,2012,Blue,Light Green,,Honda,Civic,9200.0
+1asda,2004,asdas,,,ssdsa,adasd,1200.0
+123456,2017,whITE,Black,Red,Audi,A8,300000.0
